@@ -1,3 +1,5 @@
+package unit1_fundamentals;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Farid");
@@ -8,6 +10,5 @@ public class Main {
     public static void hazelnet() {
         System.out.println("Tree");
         System.out.println("Grass");
-
     }
 }
