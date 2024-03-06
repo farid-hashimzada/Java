@@ -1,4 +1,4 @@
-package unit1_fundamentals;
+package unit1_fundamentals.sec3_helloworld;
 
 public class Main {
     public static void main(String[] args) {

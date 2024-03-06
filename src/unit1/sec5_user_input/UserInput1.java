@@ -1,4 +1,4 @@
-package unit1_fundamentals;
+package unit1_fundamentals.sec5_user_input;
 
 import java.util.Scanner;
 
