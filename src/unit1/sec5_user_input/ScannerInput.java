@@ -25,10 +25,11 @@ public class ScannerInput {
         System.out.println("\n how tall are you in metres");
         double userHeight = scanner.nextDouble();
         System.out.println("You are " + userHeight);
-        StringFormatter()
+
     }
 
-    private static void StringFormatter {
+    private static void StringFormatter() {
+        System.out.format("i have %.3f cats, %d dogs, and 1 %s.", 7.9, 2, "panther");
         System.out.format("i have %.3f cats, %d dogs, and 1 %s.", 7.9, 2, "panther");
     }
 }
